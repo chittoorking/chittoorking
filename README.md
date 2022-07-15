@@ -1,7 +1,8 @@
--  Hi, I’m Vamsi
--  I’m interested in Internet of Things
--  I’m currently learning machine learning ,web development and linux
--  I’m looking to collaborate on Artificial Intelligence
+-  Hi, I’m Chittoor Vamsi
+-  An aspiring Data Scientist
+-  Tailoring my skills towards the industry needs
+-  I’m looking to collaborate on Artificial Intelligence particularly on NLP
+-  Keen interest towards public speaking 
 
 <!---
 chittoorking/chittoorking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
