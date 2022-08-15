@@ -1,5 +1,5 @@
 -  Hi, I’m Chittoor Vamsi
--  An aspiring Data Scientist
+-  Data Scientist
 -  Tailoring my skills towards the industry needs
 -  I’m looking to collaborate on Artificial Intelligence particularly on NLP
 -  Keen interest towards public speaking 
