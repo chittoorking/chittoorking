@@ -7,7 +7,7 @@ I'm a Data Scientist 🔍📉, Content Creator📸, Mentor👨‍💻 and freela
 </h2> 
 I find joy in the entire process of analyzing complex data and extracting meaningful insights. I thrive on the challenge of uncovering patterns, solving problems, and making data-driven decisions.I love public speaking and do freelancing in data science and engineering as well.
 <br>
-## 💼 Technical Skills
+💼 Technical Skills
 <p align="center">
   <span>
 <img alt=”React” src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
