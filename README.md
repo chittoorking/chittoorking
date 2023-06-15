@@ -62,7 +62,7 @@ I find joy in the entire process of analyzing complex data and extracting meanin
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-chittoor/)
 
-<a href="https://topmate.io/vamsichittoor" target="_blank" rel="noreferrer" style="display: inline-block;background-color: orange; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;font-weight: bold;">Topmate</a>
+[![Topmate](https://img.shields.io/badge/Topmate-orange?style=for-the-badge&logoColor=white)](https://topmate.io/vamsichittoor)
 
 
 -  Hi, I’m Chittoor Vamsi
