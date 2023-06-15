@@ -1,3 +1,5 @@
+<p align="center">
+  <span>
 <img src="https://github.com/chittoorking/banner/assets/56587705/49a607db-230c-4e56-b71a-ac7a5db135d7" alt="my banner">
 <img alt=”React” src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
 <img alt=”React” src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -38,8 +40,8 @@
 <img alt=”React” src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img alt=”React” src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt=”React” src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-
-
+</span>
+</p>
 
 
 
