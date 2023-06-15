@@ -60,8 +60,7 @@ I find joy in the entire process of analyzing complex data and extracting meanin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chittoorking&layout=compact&theme=radical))](https://github.com/yushi1007)
 
 ### 🤝 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/vamsi-chittoor/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-chittoor/)
 -  Hi, I’m Chittoor Vamsi
 -  Data Scientist
 -  Tailoring my skills towards the industry needs
