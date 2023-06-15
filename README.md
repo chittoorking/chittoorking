@@ -64,12 +64,12 @@ I find joy in the entire process of analyzing complex data and extracting meanin
 
 [![Topmate](https://img.shields.io/badge/Topmate-orange?style=for-the-badge&logoColor=white)](https://topmate.io/vamsichittoor)
 
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
--  Hi, I’m Chittoor Vamsi
--  Data Scientist
--  Tailoring my skills towards the industry needs
--  I’m looking to collaborate on Artificial Intelligence particularly on NLP
--  Keen interest towards public speaking 
+### 🌱 I'm currently learning
+
+- LLM
+- Cloud
 
 <!---
 chittoorking/chittoorking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
