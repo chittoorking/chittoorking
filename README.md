@@ -3,7 +3,7 @@
 Hi there, I'm <a href="https://www.linkedin.com/in/vamsi-chittoor/" target="_blank" rel="noreferrer">Chittoor Vamsi</a> 👋
 </h3>
 <h2 align="center">
-I'm a Data Scientist 🔍📉, Content Creator📸, Mentor👨‍💻 and I also do freelancing in Data Science🎨!
+I'm a Data Scientist 🔍📉, Content Creator📸, Mentor👨‍💻 and freelancer in Data Science & Engineering🎨!
 </h2> 
 I find joy in the entire process of analyzing complex data and extracting meaningful insights. I thrive on the challenge of uncovering patterns, solving problems, and making data-driven decisions.I love public speaking and do freelancing in data science and engineering as well.
 ## 💼 Technical Skills
