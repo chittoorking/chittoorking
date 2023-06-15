@@ -45,10 +45,9 @@
 
 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=chittoorking)](https://github.com/yushi1007)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=chittoorking&show_icons=true&theme=radical))](https://github.com/yushi1007)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chittoorking&layout=compact)](https://github.com/yushi1007)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chittoorking&layout=compact&theme=radical))](https://github.com/yushi1007)
 
 
 -  Hi, I’m Chittoor Vamsi
