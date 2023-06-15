@@ -1,3 +1,4 @@
+<img src="https://github.com/chittoorking/banner/assets/56587705/49a607db-230c-4e56-b71a-ac7a5db135d7" alt="my banner">
 -  Hi, I’m Chittoor Vamsi
 -  Data Scientist
 -  Tailoring my skills towards the industry needs
