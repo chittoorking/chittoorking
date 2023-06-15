@@ -61,6 +61,8 @@ I find joy in the entire process of analyzing complex data and extracting meanin
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-chittoor/)
+[![TopMate](https://github.com/chittoorking/banner/assets/56587705/d1f1c6c4-d0ce-4186-befd-3cc558e11fed)](https://topmate.io/vamsichittoor)
+
 -  Hi, I’m Chittoor Vamsi
 -  Data Scientist
 -  Tailoring my skills towards the industry needs
