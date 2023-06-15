@@ -64,7 +64,7 @@ I find joy in the entire process of analyzing complex data and extracting meanin
 
 [![Topmate](https://img.shields.io/badge/Topmate-orange?style=for-the-badge&logoColor=white)](https://topmate.io/vamsichittoor)
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ### 🌱 I'm currently learning
 
