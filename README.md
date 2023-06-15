@@ -1,6 +1,14 @@
+<img src="https://github.com/chittoorking/banner/assets/56587705/49a607db-230c-4e56-b71a-ac7a5db135d7" alt="my banner">
+<h3 align="center">
+Hi there, I'm <a href="https://www.linkedin.com/in/vamsi-chittoor/" target="_blank" rel="noreferrer">Chittoor Vamsi</a> 👋
+</h3>
+<h2 align="center">
+I'm a Data Scientist 🔍📉, Content Creator📸, Mentor👨‍💻 and I also do freelancing in Data Science🎨!
+</h2> 
+I find joy in the entire process of analyzing complex data and extracting meaningful insights. I thrive on the challenge of uncovering patterns, solving problems, and making data-driven decisions.I love public speaking and do freelancing in data science and engineering as well.
+## 💼 Technical Skills
 <p align="center">
   <span>
-<img src="https://github.com/chittoorking/banner/assets/56587705/49a607db-230c-4e56-b71a-ac7a5db135d7" alt="my banner">
 <img alt=”React” src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
 <img alt=”React” src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt=”React” src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -43,12 +51,11 @@
 </span>
 </p>
 
-
-
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=chittoorking&show_icons=true&theme=radical))](https://github.com/yushi1007)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chittoorking&layout=compact&theme=radical))](https://github.com/yushi1007)
 
+### 🤝 Connect with me:
 
 -  Hi, I’m Chittoor Vamsi
 -  Data Scientist
